@@ -1,1 +1,2 @@
-# -reflow_soldering
+# reflow_soldering 回流焊台
+pcb和视频和3D模型来这里看 https://www.bilibili.com/video/BV12q4y1T7m6/
